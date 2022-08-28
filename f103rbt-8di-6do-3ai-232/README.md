@@ -40,9 +40,12 @@ This boards are usually equipped with relay outputs, opticaly isolated digital i
 | RS232 TX        | PA9
 | RS232 RX        | PA10
 | RUN/STOP SWITCH | PC9
+| X5              | PB5
+| X6              | PB4
 | Y0              | PB8
 | Y1              | PB1
 | Y2              | PB10
 | Y3              | PB0
 | Y4              | PC5
 | Y5              | PC4
+
