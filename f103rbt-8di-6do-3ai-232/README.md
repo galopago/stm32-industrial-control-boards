@@ -42,6 +42,7 @@ This boards are usually equipped with relay outputs, opticaly isolated digital i
 | RUN/STOP SWITCH | PC9
 | X5              | PB5
 | X6              | PB4
+| X7              | PD2
 | Y0              | PB8
 | Y1              | PB1
 | Y2              | PB10
