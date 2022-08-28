@@ -3,14 +3,18 @@
 Pin mapping for STM32 based industrial control boards advertized as compatible with FX1N, FX2N, FX3U PLC software. Usually enclosed in din rail mountable enclosures.
 
 
-Upper view                    |Lower view                 
-------------------------------|--------------------------
-![](/assets/img/upper.jpg)    |![](/assets/img/side.jpg) 
+|Upper view                    |Lower view                 
+|------------------------------|--------------------------
+|![](assets/img/upper.jpg)     |![](assets/img/lower.jpg) 
 
 
-Board Upper view              |Board Lower view                 
-------------------------------|--------------------------
-![](/assets/img/upper.jpg)    |![](/assets/img/side.jpg) 
+|Board Upper view              |Board Lower view                 
+|------------------------------|--------------------------
+|![](assets/img/upperboard.jpg)|![](assets/img/lowerboard.jpg) 
+
+|Proccesor part number       |
+|----------------------------|
+|![](assets/img/procpart.png)|
 
 
 ## Features
