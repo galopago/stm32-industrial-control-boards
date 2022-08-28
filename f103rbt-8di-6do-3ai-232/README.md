@@ -39,4 +39,4 @@ This boards are usually equipped with relay outputs, opticaly isolated digital i
 | ERROR LED       | PB13
 | RS232 TX        | PA9
 | RS232 RX        | PA10
-| RUN/STOP SWITCH | PA10
+| RUN/STOP SWITCH | PC9
