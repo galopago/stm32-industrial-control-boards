@@ -43,3 +43,4 @@ This boards are usually equipped with relay outputs, opticaly isolated digital i
 | Y1              | PB1
 | Y2              | PB10
 | Y3              | PB0
+| Y4              | PC5
