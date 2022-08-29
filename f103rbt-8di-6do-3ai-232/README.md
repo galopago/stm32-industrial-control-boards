@@ -3,16 +3,16 @@
 Pin mapping for STM32 based industrial control boards advertised as compatible with FX1N, FX2N, FX3U PLC software. Usually encased in din rail mountable enclosures.
 
 
-|Upper view                    |Lower view                 
+|Top view                      |Bottom view                 
 |------------------------------|--------------------------
 |![](assets/img/upper.jpg)     |![](assets/img/lower.jpg) 
 
 
-|Board Upper view              |Board Lower view                 
+|Board top view                |Board bottom view                 
 |------------------------------|--------------------------
 |![](assets/img/upperboard.jpg)|![](assets/img/lowerboard.jpg) 
 
-|Proccesor part number       |
+|Processor part number       |
 |----------------------------|
 |![](assets/img/procpart.png)|
 
@@ -27,9 +27,6 @@ Pin mapping for STM32 based industrial control boards advertised as compatible w
 | Digital Ouptuts | 6 relay
 | Analog inputs   | 3 non isolated, resistor divisor 15K/30K
 | Serial port     | RS232
-
-
-This boards are usually equipped with relay outputs, opticaly isolated digital inputs, RS232 serial port, 24VDC input power. Are enclosed in a convenient plastic din rail compatible mount enclosure, and screw terminals for input/outpus. This is a collective effort to document pinmaps for most common types of board available on online markets, so they will be usable with different firmware and build tools, like arduino.
 
 ## Pinout
 
