@@ -7,7 +7,7 @@ Top view                      |Side view
 ------------------------------|--------------------------
 ![](/assets/img/upper.jpg)    |![](/assets/img/side.jpg) 
 
-These boards are usually equipped with relay outputs, optically isolated digital inputs, RS232 serial port, 24VDC input power. Are encased in a convenient plastic, din rail compatible mount enclosure, and screw terminals for input/outputs. This is a collective effort to document pin maps for the most common types of board available on online markets, so they will be usable with different firmware and build tools, like arduino.
+These boards are usually equipped with relay outputs, optically isolated digital inputs, RS232 serial port, 24VDC input power. Are encased in a convenient plastic, din rail compatible mount enclosure, and screw terminals for input/outputs. This is a collective effort to document pin maps for the most common types of board available on online markets, so they will be usable with different firmware and build tools, like Arduino.
 
 ## Versions
 
