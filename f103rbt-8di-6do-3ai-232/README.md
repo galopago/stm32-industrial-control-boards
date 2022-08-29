@@ -54,6 +54,6 @@ This boards are usually equipped with relay outputs, opticaly isolated digital i
 | Y3              | PB0
 | Y4              | PC5
 | Y5              | PC4
-| AD1             | PC1
-| AD2             | PC2
-| AD3             | PC0
+| AD1  15K/30K    | PC1
+| AD2  15K/30K    | PC2
+| AD3  15K/30K    | PC0
