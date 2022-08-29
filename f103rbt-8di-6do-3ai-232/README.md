@@ -1,6 +1,6 @@
 # STM32 INDUSTRIAL CONTROL BOARD
 
-Pin mapping for STM32 based industrial control boards advertized as compatible with FX1N, FX2N, FX3U PLC software. Usually enclosed in din rail mountable enclosures.
+Pin mapping for STM32 based industrial control boards advertised as compatible with FX1N, FX2N, FX3U PLC software. Usually encased in din rail mountable enclosures.
 
 
 |Upper view                    |Lower view                 
