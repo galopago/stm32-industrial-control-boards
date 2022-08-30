@@ -55,3 +55,12 @@ Pin mapping for STM32 based industrial control boards advertised as compatible w
 | AD1      		  | PC1
 | AD2      		  | PC2
 | AD3      		  | PC0
+
+
+
+| 4 pin header  |
+|---------------|
+| 3.3V          |  
+| PC11          |
+| PC10          | 
+| GND           |
